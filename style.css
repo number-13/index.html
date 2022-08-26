@@ -1,0 +1,170 @@
+@font-face {
+    font-family:'Montserrat';
+    font-weight:  500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #EFE6E4;
+}
+h2 {
+    font-style: regular;
+    font-size: 40px;
+    line-height: 50px;
+    color: #533738;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.main-heading {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 62px;
+    
+}
+
+.promo-description {
+    font-size:  18px;
+    line-height: 30px;
+}
+.button {
+    color: #533738;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+.promo-text .promo-button {
+    background: #CC8886;
+}
+.promo {
+    color: #533738;
+    background-image: url(../img/anastasiya-vysotskaya-v5GfetB7Yv0-unsplash\ 1.jpg)
+}
+.section-heading {
+    font-size: 40px;
+    line-height: 50px;
+}
+.text-wrap {
+    font-size: 18px;
+    line-height: 30px;
+}
+.numbers-of-us {
+    background-color: #8D7370;
+}
+.numbers-of-us li {
+    font-size: 30px;
+    line-height: 36,57px;
+    color: white;
+    font-style: Medium;
+    font-size: 30px;
+    line-height: 37px;
+}
+.work-photo1 {
+    background: url(../img/image\ 55.jpg);
+    display: block;
+    width: 488px;
+    height: 451px;
+}
+.work-photo1:hover {
+    background: url(../img/Ховер.png);
+}
+.work-photo2 {
+    background: url(../img/Rectangle\ 134.jpg);
+    display: block;
+    width: 692px;
+    height: 451px;
+}
+.work-photo3 {
+    background: url(../img/Rectangle\ 132.jpg);
+    display: block;
+    width: 692px;
+    height: 451px;
+}
+.work-photo4 {
+    background: url(../img/image\ 56.jpg);
+    display: block;
+    width: 689px;
+    height: 459px;
+}
+.team {
+    background-color: #E2C4BA;
+}
+.team-masha {
+    background: url(../img/image\ 61.jpg);
+    display: block;
+    width: 375px;
+    height: 249px;
+}
+.team-sasha {
+    background: url(../img/image\ 59.jpg);
+    display: block;
+    width: 392px;
+    height: 261px;
+}
+.team-katya {
+    background: url(../img/image\ 58.jpg);
+    display: block;
+    width: 401px;
+    height: 267px;
+}
+figcaption {
+    font-style: regular;
+    font-size: 18px;
+    line-height: 30px;
+    color: #533738;
+}
+.how-to-work li {
+    font-style: regular;
+    font-size: 18px;
+    line-height: 30px;
+    color:#533738;
+}
+.oll-reviews p {
+    font-style: regular;
+    font-size: 18px;
+    line-height: 30px;
+    color: #533738;
+}
+.reviews-photo1 {
+    background: url(../img/Rectangle\ 141.jpg);
+    width: 407px;
+    height: 272px;
+}
+.reviews-photo2 {
+    background: url(../img/image\ 62.jpg);
+    width: 408px;
+    height: 279px;
+}
+.application {
+    background-color: #8D7370;
+}
+.submit {
+    color: white;
+}
+.application-text {
+    font-size: 18px;
+    line-height: 30px;
+    color:#F6EDE9;
+}
+.map {
+    background: url(../img/image\ 54.jpg);
+    width: 590px;
+    height: 624px;
+}
+.application button {
+    color: #533738;
+    font-size: 20px;
+    line-height: 24,38px;
+    font-weight: 500;
+    background-color: #CC8B86;
+}
+footer {
+    color: #533738;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+}
